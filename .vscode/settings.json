@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": "Aula 1.sln",
+    "csharp.debug.console": "externalTerminal",
+}
